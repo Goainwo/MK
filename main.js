@@ -46,3 +46,4 @@ function createPlayer(player, character) {
 }
 
 createPlayer("player1", player1);
+createPlayer("player2", player2);
