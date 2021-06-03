@@ -1,6 +1,6 @@
 let player1 = {
   name: "Scorpion",
-  hp: 94,
+  hp: 85,
   img: "http://reactmarathon-api.herokuapp.com/assets/scorpion.gif",
   weapon: ["hand"],
   attack: function () {
@@ -10,7 +10,7 @@ let player1 = {
 
 let player2 = {
   name: "Kitana",
-  hp: 95,
+  hp: 50,
   img: "http://reactmarathon-api.herokuapp.com/assets/kitana.gif",
   weapon: ["foot"],
   attack: function () {
